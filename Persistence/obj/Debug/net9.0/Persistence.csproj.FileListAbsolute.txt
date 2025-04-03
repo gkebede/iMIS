@@ -1,0 +1,15 @@
+C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Persistence\bin\Debug\net9.0\Persistence.deps.json
+C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Persistence\bin\Debug\net9.0\Persistence.dll
+C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Persistence\bin\Debug\net9.0\Persistence.pdb
+C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Persistence\bin\Debug\net9.0\Domain.dll
+C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Persistence\bin\Debug\net9.0\Domain.pdb
+C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Persistence\obj\Debug\net9.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Persistence\obj\Debug\net9.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfo.cs
+C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Persistence\obj\Debug\net9.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Persistence\obj\Debug\net9.0\Persiste.61C28332.Up2Date
+C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Persistence\obj\Debug\net9.0\Persistence.dll
+C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Persistence\obj\Debug\net9.0\refint\Persistence.dll
+C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Persistence\obj\Debug\net9.0\Persistence.pdb
+C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Persistence\obj\Debug\net9.0\ref\Persistence.dll
