@@ -5329,42 +5329,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gkebede\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\ghail\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gkebede\\OneDrive - NASW\\Desktop\\DemoProject\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\ghail\\OneDrive\\Desktop\\JS Course\\iMISProject\\iMIS\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\gkebede\\OneDrive - NASW\\Desktop\\DemoProject\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\gkebede\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gkebede\\OneDrive - NASW\\Desktop\\DemoProject\\API\\obj\\",
+      "projectPath": "C:\\Users\\ghail\\OneDrive\\Desktop\\JS Course\\iMISProject\\iMIS\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\ghail\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ghail\\OneDrive\\Desktop\\JS Course\\iMISProject\\iMIS\\API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\gkebede\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\ghail\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\gkebede\\OneDrive - NASW\\Desktop\\DemoProject\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\gkebede\\OneDrive - NASW\\Desktop\\DemoProject\\Application\\Application.csproj"
+            "C:\\Users\\ghail\\OneDrive\\Desktop\\JS Course\\iMISProject\\iMIS\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\ghail\\OneDrive\\Desktop\\JS Course\\iMISProject\\iMIS\\Application\\Application.csproj"
             }
           }
         }
@@ -5413,7 +5403,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

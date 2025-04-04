@@ -1,33 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gkebede\\OneDrive - NASW\\Desktop\\DemoProject\\Domain\\Domain.csproj": {}
+    "C:\\Users\\ghail\\OneDrive\\Desktop\\JS Course\\iMISProject\\iMIS\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gkebede\\OneDrive - NASW\\Desktop\\DemoProject\\Domain\\Domain.csproj": {
+    "C:\\Users\\ghail\\OneDrive\\Desktop\\JS Course\\iMISProject\\iMIS\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gkebede\\OneDrive - NASW\\Desktop\\DemoProject\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\ghail\\OneDrive\\Desktop\\JS Course\\iMISProject\\iMIS\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\gkebede\\OneDrive - NASW\\Desktop\\DemoProject\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\gkebede\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gkebede\\OneDrive - NASW\\Desktop\\DemoProject\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\ghail\\OneDrive\\Desktop\\JS Course\\iMISProject\\iMIS\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\ghail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ghail\\OneDrive\\Desktop\\JS Course\\iMISProject\\iMIS\\Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\gkebede\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ghail\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -73,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

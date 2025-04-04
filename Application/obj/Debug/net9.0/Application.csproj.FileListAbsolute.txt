@@ -15,3 +15,21 @@ C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Application\obj\Debug\net9.
 C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Application\obj\Debug\net9.0\refint\Application.dll
 C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Application\obj\Debug\net9.0\Application.pdb
 C:\Users\gkebede\OneDrive - NASW\Desktop\DemoProject\Application\obj\Debug\net9.0\ref\Application.dll
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\bin\Debug\net9.0\Application.deps.json
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\bin\Debug\net9.0\Application.dll
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\bin\Debug\net9.0\Application.pdb
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\bin\Debug\net9.0\Domain.dll
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\bin\Debug\net9.0\Persistence.dll
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\bin\Debug\net9.0\Domain.pdb
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\bin\Debug\net9.0\Persistence.pdb
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\obj\Debug\net9.0\Application.sourcelink.json
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\obj\Debug\net9.0\Application.dll
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\obj\Debug\net9.0\Application.pdb
+C:\Users\ghail\OneDrive\Desktop\JS Course\iMISProject\iMIS\Application\obj\Debug\net9.0\ref\Application.dll
